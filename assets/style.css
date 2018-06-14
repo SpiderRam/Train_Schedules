@@ -5,10 +5,22 @@ body {
 
 .jumbotron {
     background-image: url("./images/train_header.png");
-    text-shadow: 2px 2px 5px orange;
     background-size: 100% 100%;
+    text-shadow: 2px 2px 5px #FF8C00;
     color: black;
     border: solid 2px gray;
+}
+
+#fire {
+    text-shadow: 2px 2px 5px red;
+    color: black;
+}
+
+.card-title {
+    text-shadow: 1px 1px  #FF8C00;
+    color: black;
+    text-decoration: underline overline;
+    font-weight: bold;
 }
 
 /* Background pattern from Toptal Subtle Patterns */
@@ -24,6 +36,6 @@ body {
 }
 
 #add-train-btn {
-    background-color: orange;
+    background-color: #FF8C00;
     padding: 10px 40px;
 }
