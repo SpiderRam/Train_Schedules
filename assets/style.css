@@ -1,0 +1,29 @@
+/* Background pattern from Toptal Subtle Patterns */
+body {
+    background-image: url(./images/bo_play_pattern/bo_play_pattern.png);
+}
+
+.jumbotron {
+    background-image: url("./images/train_header.png");
+    text-shadow: 2px 2px 5px orange;
+    background-size: 100% 100%;
+    color: black;
+    border: solid 2px gray;
+}
+
+/* Background pattern from Toptal Subtle Patterns */
+#currentTrain {
+    margin-bottom: 20px;
+    background-image: url(./images/honey_im_subtle/honey_im_subtle.png);
+}
+
+/* Background pattern from Toptal Subtle Patterns */
+#addTrain {
+    margin-bottom: 20px;
+    background-image: url(./images/honey_im_subtle/honey_im_subtle.png);
+}
+
+#add-train-btn {
+    background-color: orange;
+    padding: 10px 40px;
+}
