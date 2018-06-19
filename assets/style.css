@@ -21,6 +21,7 @@ body {
     color: black;
     text-decoration: underline overline;
     font-weight: bold;
+    padding: 10px 0px 0px 10px;
 }
 
 /* Background pattern from Toptal Subtle Patterns */
